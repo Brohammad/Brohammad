@@ -190,9 +190,7 @@ Node.js • Express • PostgreSQL • Docker • Playwright
 ## 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark"/>
-
+  <img src="https://streak-stats.demolab.com?user=Brohammad&theme=github-dark&hide_border=true" />
 </p>
 
 ---
