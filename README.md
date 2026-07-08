@@ -117,17 +117,16 @@ Node.js • Express • PostgreSQL • Docker
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Brohammad&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brohammad&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brohammad&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brohammad&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=brohammad&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=Brohammad&theme=github-dark&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brohammad&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
