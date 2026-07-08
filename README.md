@@ -1,33 +1,21 @@
-# Hi 👋 I'm Aabid Mohamed
+# Hi there, I'm Aabid Mohamed 👋
 
-### AI Systems Engineer • Backend Engineer • Building Production AI Applications
+### Building Production AI Systems • Backend Engineering • Distributed Infrastructure
 
-I'm an Associate Software Engineer at PwC building production AI systems, enterprise automation platforms, and scalable backend services for global banking clients.
+Associate Software Engineer at **PwC**, building enterprise AI applications, intelligent automation, and scalable backend systems for global banking clients.
 
-I enjoy designing AI agents, distributed systems, retrieval pipelines, and developer infrastructure that solve real-world enterprise problems.
+I enjoy solving complex engineering problems involving LLMs, AI agents, distributed systems, high-performance APIs, and cloud infrastructure.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Building
 
-* 🤖 Production AI Agents
+* 🤖 Enterprise AI Agents
 * 🧠 Multi-Agent Systems
-* ⚡ Backend Engineering
-* ☁️ Cloud Native Infrastructure
-* 📊 Quantitative Trading Systems
-* 🔍 LLM Evaluation & Observability
-
----
-
-## 💼 Experience
-
-**Associate Software Engineer @ PwC**
-
-* Building production AI workflows for enterprise banking
-* Designing asynchronous Python microservices
-* Developing AI extraction & classification pipelines
-* Building scalable REST APIs and backend services
-* Deploying production-ready AI systems on Azure
+* ⚡ High-Performance Backend Services
+* 🔍 Retrieval-Augmented Generation (RAG)
+* ☁️ Cloud Native Applications
+* 📈 Quantitative Trading Infrastructure
 
 ---
 
@@ -35,176 +23,149 @@ I enjoy designing AI agents, distributed systems, retrieval pipelines, and devel
 
 ### Languages
 
-Python • TypeScript • JavaScript • C++
+`Python` • `TypeScript` • `JavaScript` • `C++`
 
 ### AI Engineering
 
-* OpenAI
-* Gemini
-* LangGraph
-* LangChain
-* FastMCP
-* MCP
-* RAG
-* Hybrid Retrieval
-* Prompt Engineering
-* Context Engineering
-* Structured Outputs
-* LLM Evaluation
-* Tool Calling
+`OpenAI` • `Gemini` • `LangGraph` • `LangChain` • `MCP` • `FastMCP`
+`RAG` • `Prompt Engineering` • `Structured Outputs`
+`LLM Evaluation` • `Hybrid Retrieval`
 
 ### Backend
 
-* FastAPI
-* Node.js
-* Express
-* AsyncIO
-* REST APIs
-* WebSockets
-* SSE
-* gRPC
-* Celery
-* Microservices
+`FastAPI` • `Node.js` • `Express`
+`AsyncIO` • `REST APIs` • `WebSockets`
+`SSE` • `gRPC` • `Celery`
 
 ### Databases
 
-* PostgreSQL
-* Redis
-* MongoDB
-* Neo4j
-* SQLite
-* Qdrant
-* ChromaDB
+`PostgreSQL` • `Redis`
+`MongoDB` • `Neo4j`
+`SQLite` • `Qdrant`
 
-### Cloud & DevOps
+### Infrastructure
 
-* Docker
-* Kubernetes
-* Azure
-* AWS
-* GitHub Actions
-* Prometheus
-* Grafana
-* OpenTelemetry
-* Linux
+`Docker`
+`Kubernetes`
+`Azure`
+`AWS`
+`GitHub Actions`
+`Prometheus`
+`Grafana`
+`OpenTelemetry`
+`Linux`
 
 ---
 
 # 🚀 Featured Projects
 
-## 📈 AlphaEdge — Quantitative Trading Platform
+## 📈 AlphaEdge
 
-Production-style quantitative trading research and execution platform.
+**AI-powered quantitative trading research & execution platform**
 
-**Highlights**
-
-* AI-powered strategy analysis
-* Event-driven backtesting engine
+* Strategy DSL & backtesting engine
 * Portfolio analytics
-* Celery-based distributed jobs
-* Redis + PostgreSQL architecture
-* OAuth & Stripe integration
-* Dockerized deployment
+* Celery distributed workers
+* Redis caching
+* OAuth + RBAC
+* Stripe integration
+* Production CI/CD
 
 **Stack**
 
-Python • FastAPI • React • PostgreSQL • Redis • Celery • Docker • OpenAI
+Python • FastAPI • React • PostgreSQL • Redis • Docker • OpenAI
 
 ---
 
-## 🏦 FinCore Banking Assistant
+## 🏦 FinCore
 
-Enterprise multi-agent banking assistant.
-
-**Highlights**
+**Enterprise multi-agent banking assistant**
 
 * LangGraph orchestration
-* FastMCP microservices
-* Neo4j knowledge graph
-* Hybrid retrieval
-* Persistent workflow state
-* Streaming tool execution
+* FastMCP services
+* Hybrid Retrieval
+* Neo4j Knowledge Graph
+* Streaming workflows
+* Persistent agent state
 * Enterprise observability
 
 **Stack**
 
-Python • LangGraph • FastAPI • Neo4j • FastMCP • SSE
+Python • LangGraph • FastAPI • Neo4j • FastMCP
 
 ---
 
 ## 🎨 PaintCRM
 
-AI-powered CRM platform for paint dealers.
+**AI-powered SaaS CRM for paint dealers**
 
-**Highlights**
-
-* Offline-first SaaS architecture
-* JWT authentication
+* JWT Authentication
+* Offline-first architecture
 * AI wall visualization
-* Intelligent product recommendations
+* Intelligent recommendations
 * Docker deployment
-* End-to-end Playwright testing
+* Playwright E2E testing
+
+🌐 **Live:** https://paintcrm.brohammad.tech
 
 **Stack**
 
-Node.js • Express • PostgreSQL • Docker • Playwright
-
-🔗 Live Demo: https://paintcrm.brohammad.tech
+Node.js • Express • PostgreSQL • Docker
 
 ---
 
-# 📚 Currently Learning
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Brohammad&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brohammad&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Brohammad&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌱 Currently Exploring
 
 * Distributed Systems
+* Platform Engineering
+* AI Infrastructure
 * Kubernetes
 * Go
-* AI Infrastructure
-* Platform Engineering
-* High Performance Backend Systems
 * LLMOps
 * Quantitative Systems
 
 ---
 
-# 🏆 Certifications
+## 🏅 Certifications
 
 * GitHub Copilot Certified
 * Microsoft Azure AI Fundamentals
 * Google Generative AI Leader
 
+---
+
+## 🌐 Connect
+
+🌍 **Portfolio:** https://brohammad.tech
+
+💼 **LinkedIn:** https://www.linkedin.com/in/aabid-mohamed-a-b22a02229/
+
+📄 **Resume:** https://drive.google.com/file/d/1_bEeeekQsHozRqg5rAfhZ5zQWT5TPryp/view
+
+📧 **Email:** [aabidmohamed2003@gmail.com](mailto:aabidmohamed2003@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
+*"Building reliable AI systems that scale from prototype to production."*
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" height="170"/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Brohammad&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-🌍 Portfolio: https://brohammad.tech
-
-💼 LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/aabid-mohamed-a-b22a02229/)
-
-📂 Resume: [YOUR_RESUME_LINK](https://drive.google.com/file/d/1_bEeeekQsHozRqg5rAfhZ5zQWT5TPryp/view)
-
-📧 Email: [aabidmohamed2003@gmail.com](mailto:aabidmohamed2003@gmail.com)
-
----
-
-> *Building reliable AI systems that solve real-world problems.*
+</div>
