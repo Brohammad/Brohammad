@@ -15,9 +15,9 @@ Associate Software Engineer at **PwC**, on a banking client (SMBC). Building an 
 ## Selected work
 
 ### VoxForge
-Open-source voice AI infrastructure · [live](https://voxforge.brohammad.tech) · [source](https://github.com/Brohammad/VoxForge)
+Open-source voice AI infrastructure · [source](https://github.com/Brohammad/VoxForge)
 
-One pipeline for WebSocket, REST, and LiveKit WebRTC, with LangGraph agents and pgvector RAG. Per-turn evals, signed replay, human handoff, one-command HTTPS deploy. 354+ tests at 81% coverage.
+One pipeline for WebSocket, REST, and LiveKit WebRTC, with LangGraph agents and pgvector RAG. Per-turn evals, signed replay, human handoff, self-hosted in one command. 354+ tests at 81% coverage.
 
 `Python` `FastAPI` `LangGraph` `LiveKit` `Postgres` `OpenTelemetry`
 
