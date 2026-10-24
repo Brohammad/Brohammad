@@ -1,170 +1,45 @@
-# Hi there, I'm Aabid Mohamed 👋
+# Aabid Mohamed A
 
-### Building Production AI Systems • Backend Engineering • Distributed Infrastructure
+Backend & AI engineer in Bengaluru. I build systems end to end and ship them solo — voice AI infrastructure, event-driven Go services, and LLM pipelines.
 
-Associate Software Engineer at **PwC**, building enterprise AI applications, intelligent automation, and scalable backend systems for global banking clients.
-
-I enjoy solving complex engineering problems involving LLMs, AI agents, distributed systems, high-performance APIs, and cloud infrastructure.
+**[brohammad.tech](https://brohammad.tech)** · **[resume](https://brohammad.tech/resume.pdf)** · **[linkedin](https://www.linkedin.com/in/aabid-mohamed-a-b22a02229/)** · **[aabidmohamed2003@gmail.com](mailto:aabidmohamed2003@gmail.com)**
 
 ---
 
-## 🚀 What I'm Building
+### Now
 
-* 🤖 Enterprise AI Agents
-* 🧠 Multi-Agent Systems
-* ⚡ High-Performance Backend Services
-* 🔍 Retrieval-Augmented Generation (RAG)
-* ☁️ Cloud Native Applications
-* 📈 Quantitative Trading Infrastructure
+Associate Software Engineer at **PwC**, on a banking client (SMBC). Building an agentic deal platform — async ingestion, NLP extraction, ML classification — that runs ~50 deals/day end to end in under 60 seconds.
 
 ---
 
-## 🛠 Tech Stack
+### Selected work
 
-### Languages
+**[VoxForge](https://github.com/Brohammad/VoxForge)** — open-source voice AI infrastructure · [live](https://voxforge.brohammad.tech)
+One pipeline for WebSocket, REST, and LiveKit WebRTC, with LangGraph agents and pgvector RAG. Per-turn evals, signed replay, human handoff, one-command HTTPS deploy. 354+ tests at 81% coverage.
+`Python` `FastAPI` `LangGraph` `LiveKit` `Postgres` `OpenTelemetry`
 
-`Python` • `TypeScript` • `JavaScript` • `C++`
+**[BugSathi](https://github.com/Brohammad/BugSathi)** — local-first, AI-native bug reporting
+Screen recording → MinIO → ffmpeg keyframes → AI-drafted report. Ordered 8-topic Kafka pipeline, 28 REST endpoints, JWT refresh rotation, OpenTelemetry + Grafana. 116 tests under `-race`, 34 ADRs.
+`Go` `Kafka` `Postgres` `MinIO` `Redis` `Kubernetes`
 
-### AI Engineering
+**[SignalMine](https://github.com/Brohammad/PainMiningEngine)** — unstructured discussion → structured market intelligence
+Collectors for GitHub and Reddit, deterministic normalization, LLM extraction, JSON Schema validation, and a golden-dataset harness that scores extraction field by field. 124 tests.
+`Python` `FastAPI` `Postgres` `Pydantic` `Prometheus`
 
-`OpenAI` • `Gemini` • `LangGraph` • `LangChain` • `MCP` • `FastMCP`
-`RAG` • `Prompt Engineering` • `Structured Outputs`
-`LLM Evaluation` • `Hybrid Retrieval`
-
-### Backend
-
-`FastAPI` • `Node.js` • `Express`
-`AsyncIO` • `REST APIs` • `WebSockets`
-`SSE` • `gRPC` • `Celery`
-
-### Databases
-
-`PostgreSQL` • `Redis`
-`MongoDB` • `Neo4j`
-`SQLite` • `Qdrant`
-
-### Infrastructure
-
-`Docker`
-`Kubernetes`
-`Azure`
-`AWS`
-`GitHub Actions`
-`Prometheus`
-`Grafana`
-`OpenTelemetry`
-`Linux`
+**[PaintCRM](https://github.com/Brohammad/PaintCRM)** — paint dealer platform · [live](https://paintcrm.brohammad.tech)
+Room photo → 63 catalog shades previewed on walls in under 60 seconds. Offline-first, Docker deployment, Playwright E2E.
+`Node.js` `Express` `Postgres`
 
 ---
 
-# 🚀 Featured Projects
+### Stack
 
-## 📈 AlphaEdge
-
-**AI-powered quantitative trading research & execution platform**
-
-* Strategy DSL & backtesting engine
-* Portfolio analytics
-* Celery distributed workers
-* Redis caching
-* OAuth + RBAC
-* Stripe integration
-* Production CI/CD
-
-**Stack**
-
-Python • FastAPI • React • PostgreSQL • Redis • Docker • OpenAI
+**Languages** — Python, Go, TypeScript, JavaScript, C++
+**Backend** — FastAPI, Node.js, REST, gRPC, WebSockets, SSE, Redis, Kafka
+**AI** — LangGraph, LangChain, RAG, MCP, LLM evaluation, structured outputs, OpenAI, Gemini
+**Data** — PostgreSQL, pgvector, Neo4j, Qdrant, ChromaDB, SQLite
+**Infra** — Docker, Kubernetes, GitHub Actions, OpenTelemetry, Prometheus, Grafana, Azure, AWS
 
 ---
 
-## 🏦 FinCore
-
-**Enterprise multi-agent banking assistant**
-
-* LangGraph orchestration
-* FastMCP services
-* Hybrid Retrieval
-* Neo4j Knowledge Graph
-* Streaming workflows
-* Persistent agent state
-* Enterprise observability
-
-**Stack**
-
-Python • LangGraph • FastAPI • Neo4j • FastMCP
-
----
-
-## 🎨 PaintCRM
-
-**AI-powered SaaS CRM for paint dealers**
-
-* JWT Authentication
-* Offline-first architecture
-* AI wall visualization
-* Intelligent recommendations
-* Docker deployment
-* Playwright E2E testing
-
-🌐 **Live:** https://paintcrm.brohammad.tech
-
-**Stack**
-
-Node.js • Express • PostgreSQL • Docker
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brohammad&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brohammad&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=brohammad&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brohammad&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## 🌱 Currently Exploring
-
-* Distributed Systems
-* Platform Engineering
-* AI Infrastructure
-* Kubernetes
-* Go
-* LLMOps
-* Quantitative Systems
-
----
-
-## 🏅 Certifications
-
-* GitHub Copilot Certified
-* Microsoft Azure AI Fundamentals
-* Google Generative AI Leader
-
----
-
-## 🌐 Connect
-
-🌍 **Portfolio:** https://brohammad.tech
-
-💼 **LinkedIn:** https://www.linkedin.com/in/aabid-mohamed-a-b22a02229/
-
-📄 **Resume:** https://drive.google.com/file/d/1_bEeeekQsHozRqg5rAfhZ5zQWT5TPryp/view
-
-📧 **Email:** [aabidmohamed2003@gmail.com](mailto:aabidmohamed2003@gmail.com)
-
----
-
-<div align="center">
-
-*"Building reliable AI systems that scale from prototype to production."*
-
-</div>
+Open to backend, AI platform, and founding engineer roles. More repos → [github.com/Brohammad](https://github.com/Brohammad?tab=repositories)
