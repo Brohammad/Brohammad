@@ -22,7 +22,7 @@ One pipeline for WebSocket, REST, and LiveKit WebRTC · LangGraph · pgvector RA
 
 **Metrics (repo SSoT):** see [docs/project-metrics.md](https://github.com/Brohammad/VoxForge/blob/main/docs/project-metrics.md) — 426 tests collected, 76.40% coverage on `src/voxforge` at last pin.
 
-**Case study:** [brohammad.tech/projects/voxforge](https://brohammad.tech/projects/voxforge) · 
+**Case study:** [brohammad.tech/projects/voxforge](https://brohammad.tech/projects/voxforge) 
 
 ### [BugSathi](https://github.com/Brohammad/BugSathi) — event-driven bug reporting (Go)
 
