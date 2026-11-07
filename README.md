@@ -1,58 +1,79 @@
 # Aabid Mohamed A
 
-Backend & AI engineer in Bengaluru. I build systems end to end and ship them solo — voice AI infrastructure, event-driven Go services, and LLM pipelines.
+Backend engineer — distributed systems and AI infrastructure.
 
-**[brohammad.tech](https://brohammad.tech)** · **[resume](https://brohammad.tech/resume.pdf)** · **[linkedin](https://www.linkedin.com/in/aabid-mohamed-a-b22a02229/)** · **[aabidmohamed2003@gmail.com](mailto:aabidmohamed2003@gmail.com)**
+I build systems end to end: event-driven Go services, voice/AI platforms, and schema-bound LLM pipelines with tests and observability you can inspect before an interview.
+
+**[brohammad.tech](https://brohammad.tech)** · **[resume](https://brohammad.tech/resume.pdf)** · **[LinkedIn](https://www.linkedin.com/in/aabid-mohamed-a-b22a02229/)** · **[email](mailto:aabidmohamed2003@gmail.com)**
 
 ---
 
 ## Now
 
-Associate Software Engineer at **PwC**, on a banking client (SMBC). Building an agentic deal platform — async ingestion, NLP extraction, ML classification — that runs ~50 deals/day end to end in under 60 seconds.
+Associate Software Engineer at **PwC** — agentic deal workflows for an enterprise banking client (async ingestion, NLP extraction, ML classification). Details stay confidential; public proof is in the repos below.
 
 ---
 
-## Selected work
+## Featured engineering work
 
-### VoxForge
-Open-source voice AI infrastructure · [source](https://github.com/Brohammad/VoxForge)
+### [VoxForge](https://github.com/Brohammad/VoxForge) — voice AI infrastructure
 
-One pipeline for WebSocket, REST, and LiveKit WebRTC, with LangGraph agents and pgvector RAG. Per-turn evals, signed replay, human handoff, self-hosted in one command. 354+ tests at 81% coverage.
+One pipeline for WebSocket, REST, and LiveKit WebRTC · LangGraph · pgvector RAG · per-turn eval · signed replay · self-hosted deploy.
 
-`Python` `FastAPI` `LangGraph` `LiveKit` `Postgres` `OpenTelemetry`
+**Metrics (repo SSoT):** see [docs/project-metrics.md](https://github.com/Brohammad/VoxForge/blob/main/docs/project-metrics.md) — 426 tests collected, 76.40% coverage on `src/voxforge` at last pin.
 
-### BugSathi
-Local-first, AI-native bug reporting · [source](https://github.com/Brohammad/BugSathi)
+**Case study:** [brohammad.tech/projects/voxforge](https://brohammad.tech/projects/voxforge) · **Live:** [voxforge.brohammad.tech](https://voxforge.brohammad.tech)
 
-Screen recording → MinIO → ffmpeg keyframes → AI-drafted report. Ordered 8-topic Kafka pipeline, 28 REST endpoints, JWT refresh rotation, OpenTelemetry and Grafana. 116 tests under `-race`, 34 ADRs.
+### [BugSathi](https://github.com/Brohammad/BugSathi) — event-driven bug reporting (Go)
 
-`Go` `Kafka` `Postgres` `MinIO` `Redis` `Kubernetes`
+Screen recording → MinIO → ordered Kafka pipeline → ffmpeg → AI-drafted report. JWT refresh rotation · OTel/Prometheus/Grafana · 116 Go tests under `-race` · 35 ADRs.
 
-### SignalMine
-Unstructured discussion → structured market intelligence · [source](https://github.com/Brohammad/PainMiningEngine)
+**Case study:** [brohammad.tech/projects/bugsathi](https://brohammad.tech/projects/bugsathi)
 
-Collectors for GitHub and Reddit, deterministic normalization, LLM extraction, JSON Schema validation, and a golden-dataset harness that scores extraction field by field. 124 tests.
+### [SignalMine](https://github.com/Brohammad/PainMiningEngine) — extraction pipeline
 
-`Python` `FastAPI` `Postgres` `Pydantic` `Prometheus`
+GitHub/Reddit → deterministic normalization → schema-validated LLM extraction · golden-dataset eval · FastAPI + Postgres persistence.
 
-### PaintCRM
-Paint dealer platform · [live](https://paintcrm.brohammad.tech) · [source](https://github.com/Brohammad/PaintCRM)
+**Metrics:** [docs/project-metrics.md](https://github.com/Brohammad/PainMiningEngine/blob/main/docs/project-metrics.md) — 125 pytest tests collected.
 
-Room photo → 63 catalog shades previewed on walls in under 60 seconds. Offline-first, Docker deployment, Playwright end-to-end tests.
+**Case study:** [brohammad.tech/projects/signalmine](https://brohammad.tech/projects/signalmine)
 
-`Node.js` `Express` `Postgres`
+### [PaintCRM](https://github.com/Brohammad/PaintCRM) — dealer product
 
----
+Offline-first room preview · multi-tenant API · live demo at [paintcrm.brohammad.tech](https://paintcrm.brohammad.tech).
 
-## Stack
+**Case study:** [brohammad.tech/projects/paint-intelligence](https://brohammad.tech/projects/paint-intelligence)
 
-- **Languages** — Python, Go, TypeScript, JavaScript, C++
-- **Backend** — FastAPI, Node.js, REST, gRPC, WebSockets, SSE, Redis, Kafka
-- **AI** — LangGraph, LangChain, RAG, MCP, LLM evaluation, structured outputs, OpenAI, Gemini
-- **Data** — PostgreSQL, pgvector, Neo4j, Qdrant, ChromaDB, SQLite
-- **Infra** — Docker, Kubernetes, GitHub Actions, OpenTelemetry, Prometheus, Grafana, Azure, AWS
+### Arden (upcoming)
+
+Distributed job scheduler in Go — Postgres-backed leasing, fencing tokens, DLQ, observability. **Not started** — listed on [brohammad.tech](https://brohammad.tech) only as upcoming.
 
 ---
 
-Open to backend, AI platform, and founding engineer roles.
-More repos → [github.com/Brohammad](https://github.com/Brohammad?tab=repositories)
+## Engineering interests
+
+Distributed systems · backend infrastructure · AI systems engineering · platform engineering · high-performance systems
+
+---
+
+## Stack (from production usage)
+
+| Area | Tools |
+|------|--------|
+| Languages | Python, Go, TypeScript |
+| Backend | FastAPI, Express, SQLAlchemy, asyncpg |
+| Data | PostgreSQL, pgvector, Redis, MinIO, Kafka |
+| AI / voice | LangGraph, LiveKit, Instructor, JSON Schema contracts |
+| Ops | Docker, Kubernetes, OpenTelemetry, Prometheus, Grafana, GitHub Actions |
+
+---
+
+## Engineering notes
+
+Technical writing in progress on **[brohammad.tech/#writing](https://brohammad.tech/#writing)** — grounded in the repos above, not generic tutorials.
+
+---
+
+## Contact
+
+**[aabidmohamed2003@gmail.com](mailto:aabidmohamed2003@gmail.com)** — include the system problem; I'll point you at the matching repo and case study.
